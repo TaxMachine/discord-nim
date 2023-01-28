@@ -1,0 +1,6 @@
+switch("d", "ssl")
+switch("d", "release")
+switch("threads", "on")
+switch("opt", "size")
+switch("o", "bin/")
+#switch("app", "gui")
